@@ -164,7 +164,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
-		"uniques": ["Only available <in cities with a [Divine Gate]>","[50]% [Production] [in all cities]","[50]% [Food] [in all cities]","[50]% [Happiness] [in all cities]","[50]% [Science] [in all cities]","[50]% [Culture] [in all cities]","Quantity of strategic resources produced by the empire +[50]%","Moves to new capital when capital changes"]
+		"uniques": ["Only available <in cities with a [Divine Gate]>","[+50]% [Production] [in all cities]","[+50]% [Food] [in all cities]","[+50]% [Happiness] [in all cities]","[+50]% [Science] [in all cities]","[+50]% [Culture] [in all cities]","Quantity of strategic resources produced by the empire [+50]%","Moves to new capital when capital changes"]
 	},
 	{
 		"name": "Defense Tower",
